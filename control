@@ -1,0 +1,9 @@
+Package: com.ahmad.rjsync
+Name: RJSync
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Download Radio Javan Musics Without Login
+Maintainer: Ahmad
+Author: Ahmad
+Section: Tweaks
